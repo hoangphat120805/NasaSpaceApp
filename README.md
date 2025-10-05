@@ -31,16 +31,6 @@
 -   **Regional bloom reports** with data visualization
 -   **Export capabilities** for research purposes
 
-## Preview
-
-### 🗺️ Main Map Interface
-
-![Main View](img/firstview.png)
-
-![Chart View](img/chartview.png)
-
-![Watch View](img/watchview.png)
-
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -109,6 +99,8 @@
     python main.py
     ```
 
+![Backend docs](img/be.png)
+
 ### Frontend Setup
 
 1. **Navigate to frontend directory**
@@ -133,6 +125,8 @@
     ```
     http://localhost:3000
     ```
+
+![Watch View](img/watchview.png)
 
 ### Docker Deployment
 
@@ -199,9 +193,10 @@ We welcome contributions from the community! Here's how you can help:
 ## 📊 Data Sources
 
 -   **Satellite Data**: NASA MODIS vegetation indices (NDVI/EVI)
--   **Climate Data**: Weather station observations and forecasts
 -   **Species Database**: Botanical taxonomies and phenology records
 -   **Crowdsourced**: Community observations and photos
+
+![NDVI Analysis](frontend/public/region1/ndvi.gif)
 
 ## 🎯 NASA Space Apps Challenge
 

@@ -31,7 +31,21 @@
 -   **Regional bloom reports** with data visualization
 -   **Export capabilities** for research purposes
 
-## 🛠️ Tech Stack
+## � Preview
+
+### 🗺️ Main Map Interface
+![Main View](img/firstview.png)
+*Interactive map showing bloom locations with species-specific markers across Vietnam*
+
+### 📊 Data Analytics Dashboard  
+![Chart View](img/chartview.png)
+*Comprehensive analytics and visualization of blooming patterns and trends*
+
+### ⏱️ Real-time Monitoring
+![Watch View](img/watchview.png)
+*Live monitoring interface for tracking bloom status and environmental conditions*
+
+## �🛠️ Tech Stack
 
 ### Backend
 
@@ -220,4 +234,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for the NASA Space Apps Challenge 2024**
+**Built with ❤️ for the NASA Space Apps Challenge 2025**

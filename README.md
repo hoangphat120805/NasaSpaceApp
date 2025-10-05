@@ -31,24 +31,17 @@
 -   **Regional bloom reports** with data visualization
 -   **Export capabilities** for research purposes
 
-## � Preview
+## Preview
 
 ### 🗺️ Main Map Interface
 
 ![Main View](img/firstview.png)
-_Interactive map showing bloom locations with species-specific markers across Vietnam_
-
-### 📊 Data Analytics Dashboard
 
 ![Chart View](img/chartview.png)
-_Comprehensive analytics and visualization of blooming patterns and trends_
-
-### ⏱️ Real-time Monitoring
 
 ![Watch View](img/watchview.png)
-_Live monitoring interface for tracking bloom status and environmental conditions_
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
 

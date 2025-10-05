@@ -2,6 +2,8 @@
 
 **Florascope** is an interactive web application for tracking and visualizing flower blooming patterns across Vietnam using satellite data and crowdsourced observations. This project was developed for the NASA Space Apps Challenge to help researchers, botanists, and nature enthusiasts monitor plant phenology and biodiversity.
 
+![First View](img/firstview.png)
+
 ## 🌟 Features
 
 ### 🗺️ Interactive Mapping

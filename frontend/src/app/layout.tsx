@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-    title: "BloomWatch",
+    title: "Florascope",
     description:
         "An interactive map to explore flowering plant species and their bloom times around the world."
 }
